@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Daisy Tong, a Full-Stack Web Developer in Great Toronto Area, ON. I Come from a design background it has taken the past 6 years of my career to figure out where I belong in the crazy world we work in.
+I'm Daisy Tong, a Full-Stack Web Developer in Great Toronto Area, ON. I come from a design background it has taken the past 6 years of my career to figure out where I belong in the crazy world we work in.
 
 I have a real passion for development and using my design experience. I leverage my knowledge of typographic, relationships and design patterns to create aesthetically pleasing but also very viable digital experiences. I find it incredibly rewarding to write not only very clean code but to witness and be apart of the solution bringing a design into development.
 
